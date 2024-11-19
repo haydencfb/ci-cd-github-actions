@@ -2,7 +2,7 @@
   # CI/CD Actions
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  ## This project quizes users based upon information that regards web development from knowledge acquired across mulitple different coding languages.
+  ## This project quizes users based upon information that regards web development from knowledge acquired across multiple different coding languages.
 
   - The motivation for this project was to learn how to interact with Render and GitHub actions in a way that allows the developer to have branch protection at different stages in the development process.
   - I built this project to learn how to interact with Render and GitHub actions in a way that is more efficient and effective for development and deployment purposes.
