@@ -23,12 +23,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Start MongoDB
-        run: sudo systemctl start mongodb
-
-      - name: Start Server
-        run: npm run start
-
       - name: Run vitest tests
-        run: npm run test
+        run: npm run test 
+        component: true
 
