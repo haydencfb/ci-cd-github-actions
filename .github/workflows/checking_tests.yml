@@ -23,6 +23,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Start MongoDB
+        run: sudo systemctl start mongodb
+
       - name: Start Server
         run: npm run start
 
